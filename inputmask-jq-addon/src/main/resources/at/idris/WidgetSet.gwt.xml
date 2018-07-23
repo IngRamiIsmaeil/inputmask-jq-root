@@ -1,0 +1,12 @@
+<module>
+
+	<!-- WS Compiler: manually edited -->
+
+	<!-- Inherit DefaultWidgetSet -->
+	<inherits name="com.vaadin.DefaultWidgetSet" /> 
+
+	<!-- Widget styles in public -directory -->
+	<stylesheet src="inputmask-jq/styles.css"/>
+
+	<source path="client/" />
+</module>
